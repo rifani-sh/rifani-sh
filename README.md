@@ -1,5 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# 👋 Hi, I'm Rifani
+
+**Full Stack Developer · Open Source Enthusiast · Problem Solver**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Building+cool+things+on+the+web;Open+source+contributor;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+
 </div>
 
 ###
@@ -18,7 +24,33 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+---
+
+<h3 align="center">🎮 Mini Game — Can You Beat My Score?</h3>
+
+<div align="center">
+
+> **Catch the ☕ coffee, dodge the 🐛 bugs!**
+> Use `←` `→` Arrow Keys or your Mouse / Touch
+
+[![Play Bug Buster](https://img.shields.io/badge/🕹️%20PLAY%20NOW-Bug%20Buster-FF6B6B?style=for-the-badge&logoColor=white)](https://rifani890.github.io/rifani890/game.html)
+
+<!-- 
+  HOW TO ENABLE THIS GAME:
+  1. Copy `game.html` to your profile repo root (rifani890/rifani890/)
+  2. Go to Settings → Pages → Source: Deploy from branch → main → / (root)
+  3. Wait ~1 min, then the PLAY NOW button above will work!
+  4. Optional: Record a GIF of yourself playing and replace the link above
+     with: [![Play Game](YOUR_GIF_URL)](https://rifani890.github.io/rifani890/game.html)
+-->
+
+```
+🏆 HIGH SCORE: ___  |  ⭐ BEST LEVEL: ___  |  Drop a comment if you beat me!
+```
+
+</div>
+
+---
 
 ###
 
