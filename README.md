@@ -21,10 +21,17 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifani890/rifani890/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifani890/rifani890/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifani890/rifani890/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -57,37 +64,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/rifani890/rifani890/output/snake.svg" alt="Snake animation" />
-
-<!-- CHESS_START -->
----
-
-<h3 align="center">♟ Chess — Play Against the World!</h3>
-
-<div align="center">
-
-> Make your move by clicking a link below — a bot will update the board automatically!
-
-<img src="https://raw.githubusercontent.com/rifani890/rifani890/main/chess/board.svg" width="420" alt="Chess board" />
-
-**White ♔ to move**
-
-</div>
-
-| Piece | Moves |
-|-------|-------|
-| ♙ Pawn | [`a3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+a2a3&labels=chess-move&body=Making+my+move%3A+a2a3) [`a4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+a2a4&labels=chess-move&body=Making+my+move%3A+a2a4) [`b3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+b2b3&labels=chess-move&body=Making+my+move%3A+b2b3) [`b4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+b2b4&labels=chess-move&body=Making+my+move%3A+b2b4) [`c3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+c2c3&labels=chess-move&body=Making+my+move%3A+c2c3) [`c4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+c2c4&labels=chess-move&body=Making+my+move%3A+c2c4) [`d3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+d2d3&labels=chess-move&body=Making+my+move%3A+d2d3) [`d4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+d2d4&labels=chess-move&body=Making+my+move%3A+d2d4) [`e3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+e2e3&labels=chess-move&body=Making+my+move%3A+e2e3) [`e4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+e2e4&labels=chess-move&body=Making+my+move%3A+e2e4) [`f3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+f2f3&labels=chess-move&body=Making+my+move%3A+f2f3) [`f4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+f2f4&labels=chess-move&body=Making+my+move%3A+f2f4) [`g3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+g2g3&labels=chess-move&body=Making+my+move%3A+g2g3) [`g4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+g2g4&labels=chess-move&body=Making+my+move%3A+g2g4) [`h3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+h2h3&labels=chess-move&body=Making+my+move%3A+h2h3) [`h4`](https://github.com/rifani890/rifani890/issues/new?title=chess:+h2h4&labels=chess-move&body=Making+my+move%3A+h2h4) |
-| ♘ Knight | [`Na3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+b1a3&labels=chess-move&body=Making+my+move%3A+b1a3) [`Nc3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+b1c3&labels=chess-move&body=Making+my+move%3A+b1c3) [`Nf3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+g1f3&labels=chess-move&body=Making+my+move%3A+g1f3) [`Nh3`](https://github.com/rifani890/rifani890/issues/new?title=chess:+g1h3&labels=chess-move&body=Making+my+move%3A+g1h3) |
-
-<details>
-<summary>📖 How to play</summary>
-
-1. Click any move link in the table above
-2. Submit the pre-filled GitHub Issue *(don't change the title)*
-3. The bot applies your move and updates the board within seconds ♟
-
-> Anyone can play — one move per person per turn, first come first served!
-
-</details>
-<!-- CHESS_END -->
 
 ###
